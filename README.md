@@ -8,3 +8,6 @@ Soy estudiante de ASIR, actualmente en prácticas en CodeArts.
 
 ## Objetivos
 Aprender a usar Git y GitHub
+
+## Tareas 
+Tarea 1
